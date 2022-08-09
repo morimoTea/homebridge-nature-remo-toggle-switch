@@ -1,10 +1,7 @@
 # homebridge-nature-remo-toggle-switch
-## About
-Homebridge plugin to control toggle switches using Nature Remo.
+[Homebridge](https://github.com/homebridge/homebridge) plugin to control toggle switches using [Nature Remo](https://nature.global/nature-remo/).
 
 ## Installation
-You can easily find this plugin by searching on "Plugins" tab of [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x).  
-Or just run this command in terminal.
 ```bash
 npm install -g homebridge-nature-remo-toggle-switch
 ```
