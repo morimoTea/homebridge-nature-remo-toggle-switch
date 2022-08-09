@@ -2,7 +2,12 @@
   "name": "homebridge-nature-remo-toggle-switch",
   "version": "1.0.0",
   "description": "Homebridge Plugin to control toggle switches using Nature Remo",
+  "author": "morimoTea",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morimoTea/homebridge-nature-remo-toggle-switch.git"
+  },
   "keywords": [
     "homebridge-plugin"
   ],
