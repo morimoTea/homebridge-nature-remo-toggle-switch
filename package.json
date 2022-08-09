@@ -1,0 +1,14 @@
+{
+  "name": "homebridge-nature-remo-toggle-switch",
+  "version": "1.0.0",
+  "description": "Homebridge Plugin to control toggle switches using Nature Remo",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=0.4.8"
+  },
+  "dependencies": {}
+}
